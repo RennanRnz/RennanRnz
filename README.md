@@ -1,13 +1,9 @@
 👋 Hi, I’m rennan_rnz
 
-I'm interested in creating the future
-
-I'm a data scientist
+Technical Skills: Python | Panda | Numpy | Seaborn | Scikit Learn | SQL | Matplotlib | Sales force | Power app | Crisp-dm | Azure ML | Power BI | AWS Athena and S3 | Streamlit
 
 📫 contact me on IG @rennan_rnz
 
-
-⚡peace for our time...
 
 
 <!---

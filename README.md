@@ -1,10 +1,20 @@
-Technical Skills: Python | Panda | Numpy | Seaborn | Scikit Learn | SQL | Matplotlib | Sales force | Power app | Crisp-dm | Azure ML | Power BI | AWS Athena and S3 | Streamlit
 
-📫 contact me on IG @rennan_rnz
+### Olá! Eu sou o Rennan Silva!👋🤩
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rennan_rnz/)
+
+![RennanRnz GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanRnz&show_icons=true&theme=tokyonight)
+
+
+## Technical Skills:
+
+<div style="display: inline_block">
+
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div><br/>
 
 
 
-<!---
-RennanRnz/RennanRnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+

@@ -1,37 +1,41 @@
 # Olá, eu sou o Rennan! 👋
 
+### Data Scientist & Administrador de Redes
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RennanRnz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=rennan-rnz&show_icons=true&theme=tokyonight" alt="Status do GitHub">
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Estudando desenvolvimento de software com foco em **Python**.
-- 🛠️ Atualmente trabalhando com projetos de **Banco de Dados (PostgreSQL)** e automação.
-- 📫 Como me encontrar: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rennan_rnz/)
+- 🧪 Atuando como **Data Scientist**, transformando dados em insights.
+- 🌐 **Administrador de Redes**, garantindo infraestrutura sólida e segura.
+- 🗄️ Especialista em manipulação de dados com **Python** e **PostgreSQL**.
+- 🛠️ Foco em automação de processos e análise estatística.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Stack Técnica
 
-**Linguagens e Frameworks:**
+**Ciência de Dados & Linguagens:**
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-**Banco de Dados:**
+**Infraestrutura & DB:**
 <div style="display: inline_block">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRnz&layout=compact&theme=tokyonight)
+### 📫 Conecte-se comigo
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rennan_rnz/)
 
 ---
 
-### 🐍 Atividade no GitHub
-![Snake animation](https://github-user-contribution-grid-snake.next-hop.software/github-user-contribution-grid-snake.svg)
+### 📊 Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennan-rnz&layout=compact&theme=tokyonight)

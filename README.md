@@ -1,4 +1,4 @@
-### Data Scientist & Administrador de Redes
+### Data Scientist | Networking & Cloud
 
 ---
 

@@ -1,13 +1,5 @@
 ### Data Scientist & Administrador de Redes
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rennan-rnz&show_icons=true&theme=tokyonight" alt="Status do GitHub">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rennan-rnz&theme=tokyonight" alt="GitHub Streak">
-</div>
-
 ---
 
 ![Data Science](https://img.shields.io/badge/Foco-Data%20Science-blueviolet?style=for-the-badge)
@@ -65,13 +57,6 @@
   Foco em EDA, feature engineering, validação de modelos e storytelling com dados.
 
 *(Mais projetos em breve 🚀)*
-
----
-
-## 📊 Linguagens mais utilizadas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennan-rnz&layout=compact&theme=tokyonight" alt="Top Langs">
-</div>
 
 
 ---

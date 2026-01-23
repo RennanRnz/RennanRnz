@@ -23,8 +23,15 @@
 
 ### 🌐 Redes, Cloud & Infraestrutura
 - ✅ **Huawei HCIA-Datacom**
-- ✅ **Huawei HCIP-Datacom (Professional)**
-- ☁️ **AWS Certified Advanced Networking**
+- ✅ **Huawei HCIA-Access**
+- ✅ **Huawei HCIP-Datacom (core)** ⌛️
+- ✅ **Huawei HCIP-Datacom (Professional)** ⌛️
+- ☁️ **AWS Certified cloud Practitioner** ⌛️
+- ☁️ **AWS Certified Solutions Architect (Associate)** ⌛️
+- ☁️ **AWS Certified SysOps Administrator (Associate)** ⌛️
+- ☁️ **AWS Networking Learning Plan** ⌛️
+- ☁️ **AWS Networking Deep Dive** ⌛️
+- ☁️ **AWS Certified Advanced Networking (Specialty)** ⌛️
 
 ### 📊 Data Science & Inteligência Artificial
 - 📈 **Data Science — EBAC**
